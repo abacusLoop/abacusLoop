@@ -1,19 +1,16 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/4EbPq54Rbx5UvBXsRx/giphy.gif" width="100"/>
 </div>
-<n>
-</n>
-<n>
-</n>
+<br>
+
+</br>
+
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/maja-ivkovic-3b305419/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width="70"/>
   </a>
 </div>
-
-<n>
-</n>
 
 <div id="badges" align="center">
   <img src="https://komarev.com/ghpvc/?username=abacusLoop&style=flat-square&color=blue" alt="" width="80"/>
