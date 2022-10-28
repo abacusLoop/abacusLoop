@@ -1,7 +1,10 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/4EbPq54Rbx5UvBXsRx/giphy.gif" width="100"/>
 </div>
-
+<n>
+</n>
+<n>
+</n>
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/maja-ivkovic-3b305419/">
@@ -9,13 +12,12 @@
   </a>
 </div>
 
+<n>
+</n>
 
 <div id="badges" align="center">
   <img src="https://komarev.com/ghpvc/?username=abacusLoop&style=flat-square&color=blue" alt="" width="80"/>
 </div>
-
-<n>
-</n>
 
 <h2 align="center">
   Hey there
