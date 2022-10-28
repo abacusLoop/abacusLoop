@@ -1,10 +1,8 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="110"/>
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="130"/>
 </div>
 <br>
 </br>
-
-
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/maja-ivkovic-3b305419/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width="70"/>
