@@ -2,23 +2,26 @@
   <img src="https://media.giphy.com/media/a8E3O2Fr2yuRRpYsq1/giphy.gif" width="150"/>
 </div>
 
+
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/maja-ivkovic-3b305419/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
 
+
 <div id="badges" align="center">
   <img src="https://komarev.com/ghpvc/?username=abacusLoop&style=flat-square&color=blue" alt=""/>
 </div>
 
+
 <h1 align="center">
   Hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px"/>
 </h1>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/4EbPq54Rbx5UvBXsRx/giphy.gif" width="250" height="250"/>
+  <img src="https://media.giphy.com/media/4EbPq54Rbx5UvBXsRx/giphy.gif" width="250" height="220"/>
 </div>
 
 ---
